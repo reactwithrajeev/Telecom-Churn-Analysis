@@ -135,11 +135,11 @@ Unlike a real-world messy dataset, this data was **synthetically generated with 
 
 | Chart 1 — Churn by Contract Type | Chart 8 — Correlation Heatmap |
 |---|---|
-| ![Chart1](charts/chart1_churn_by_contract.png) | ![Chart8](charts/chart8_correlation_heatmap.png) |
+| ![Chart1](Python/Charts/chart1_churn_by_contract.png) | ![Chart8](Python/Charts/chart8_correlation_heatmap.png) |
 
 | Chart 4 — Usage Decline Boxplot | Chart 10 — Revenue at Risk |
 |---|---|
-| ![Chart4](charts/chart4_usage_decline_boxplot.png) | ![Chart10](charts/chart10_revenue_at_risk.png) |
+| ![Chart4](Python/Charts/chart4_usage_decline_boxplot.png) | ![Chart10](Python/Charts/chart10_revenue_at_risk.png) |
 
 ---
 
