@@ -193,22 +193,27 @@ Built following a formal **BRD → FRD → Traceability Matrix** workflow — ev
 **Home** — Branded landing page with project summary and navigation to all 5 content pages
 
 **Page 1 — Churn Overview Dashboard**
+| ![Chart1](Power_Bi/Dashboard/DASH_1.png)
 - 4 KPI Cards: Total Customers · Churn Rate % · Monthly Revenue at Risk · Avg Tenure
 - Churn Rate % by Contract Type · New Churns by Month · Plan & City distribution
 
 **Page 2 — Churn Drivers & Risk Segmentation**
+| ![Chart1](Power_Bi/Dashboard/DASH_2.png)
 - Top 5 Highest-Churn City/Plan Combinations (`RANKX`)
 - Churn by Tenure Bucket · Risk Category Distribution (`SWITCH(TRUE())`) · Churn by Complaint Count
 
 **Page 3 — Revenue Impact Analysis**
+| ![Chart1](Power_Bi/Dashboard/DASH_3.png)
 - Interactive Decomposition Tree (city → plan → contract type)
 - Revenue at Risk by Plan · Top 10 Highest-Value At-Risk Customers
 
 **Page 4 — Complaint Trends & Resolution Performance**
+| ![Chart1](Power_Bi/Dashboard/DASH_4.png)
 - Rolling 3-Month Complaint Trend (`DATESINPERIOD`)
 - Month-over-Month Resolution Time (`DATEADD`) · Complaint Type Breakdown
 
 **Page 5 — Customer Deep-Dive & AI Insights**
+| ![Chart1](Power_Bi/Dashboard/DASH_5.png)
 - **Key Influencers AI visual** — independently validated the same top churn drivers found in Python
 - **Field Parameter** metric switcher (Churn Rate % / Revenue at Risk / Complaints) in a single dynamic chart
 
