@@ -139,7 +139,7 @@ Unlike a real-world messy dataset, this data was **synthetically generated with 
 
 | Chart 4 — Usage Decline Boxplot | Chart 10 — Revenue at Risk |
 |---|---|
-| ![Chart4](Charts/chart4_usage_decline_boxplot.png) | ![Chart10](Charts/chart10_revenue_at_risk.png) |
+| ![Chart4](Charts/chart4_usage_decline_boxplot.png) | ![Chart10](Python/Charts/chart10_revenue_at_risk.png) |
 
 ---
 
